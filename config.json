@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "E동(장영실관)": {
+      "style": "brick",
+      "wall": "#72453f",
+      "glass": "#3a3f4a",
+      "frame": "#d9d6d0"
+    },
+    "늘빛관": {
+      "style": "ribbon",
+      "wall": "#c9cfc6",
+      "glass": "#4f6b72",
+      "frame": "#8c9a96"
+    },
+    "인덕제": {
+      "style": "dorm",
+      "wall": "#ddd6c4",
+      "glass": "#5a6266",
+      "frame": "#c9c2ad"
+    },
+    "D동": {
+      "style": "ribbon",
+      "wall": "#d9dbe0",
+      "glass": "#3d4c5c",
+      "frame": "#9d969d"
+    },
+    "C동": {
+      "style": "stone",
+      "wall": "#e6e2d8",
+      "glass": "#4d5f70",
+      "frame": "#c3c4c9"
+    },
+    "인정관": {
+      "style": "glass",
+      "wall": "#b9bcbe",
+      "glass": "#5f8098",
+      "frame": "#77848c"
+    },
+    "하연관(A동)": {
+      "style": "ribbon",
+      "wall": "#dcdfe6",
+      "glass": "#46526a",
+      "frame": "#a9afbd"
+    },
+    "B동": {
+      "style": "stone",
+      "wall": "#e1e3e2",
+      "glass": "#416a9a",
+      "frame": "#c4c8ca"
+    },
+    "F동": {
+      "style": "stone",
+      "wall": "#ece7e2",
+      "glass": "#4b6070",
+      "frame": "#c1a49e"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
